@@ -1,4 +1,4 @@
-package br.com.exercise.sr.reis.personalData;
+package br.com.exercise.sr.reis.utils;
 
 public class PersonalData {
 
